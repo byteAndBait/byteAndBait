@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**byteAndBait/byteAndBait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+byteAndBait+%F0%9F%91%8B;Full+Stack+Dev+in+the+Making;Hooked+on+JavaScript;Building+One+Commit+at+a+Time" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=byteAndBait&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/byteAndBait)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```js
+const byteAndBait = {
+  status:    "Leveling up daily 📈",
+  currently: "The Odin Project — JavaScript Path",
+  milestone: "ES6 Classes & OOP Patterns",
+  stack:     ["HTML", "CSS", "JavaScript"],
+  learning:  ["Node.js", "React", "Databases"],
+  goal:      "Land my first dev role & ship real products",
+  motto:     "Write it. Break it. Fix it. Repeat."
+};
+```
+
+---
+
+## 🛣️ My Journey — The Odin Project
+
+<div align="center">
+
+| Phase | Topics | Status |
+|-------|--------|--------|
+| 🏁 **Foundations** | HTML, CSS, Git, Basic JS | ✅ Done |
+| 📐 **Intermediate HTML & CSS** | Flexbox, Grid, Forms, Responsive Design | ✅ Done |
+| ⚙️ **JavaScript** | DOM, OOP, Constructors, Prototypes | 🔥 In Progress |
+| &nbsp;&nbsp;&nbsp;↳ *Current Lesson* | **ES6 Classes** | 📍 Here |
+| 📦 **JS: Modules & Async** | ES6 Modules, Promises, Async/Await, APIs | ⏳ Up Next |
+| 🖥️ **NodeJS** | Express, Databases, Auth, REST APIs | 🔒 Locked |
+| ⚛️ **React** | Components, State, Hooks, Routing | 🔒 Locked |
+| 🚀 **Full Stack** | Full-stack apps, Deployment, Job-ready projects | 🔒 Locked |
+
+</div>
+
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Coming Soon:**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=byteAndBait&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteAndBait&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=byteAndBait&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] 🏗️ Complete The Odin Project — Full Stack JavaScript Path
+- [ ] 🚀 Ship 3+ portfolio-worthy projects
+- [ ] 🌐 Build and deploy a full-stack web app
+- [ ] 📬 Land my first developer role or freelance client
+- [ ] 🤝 Make my first open-source contribution
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-byteAndBait-%23121011?style=for-the-badge&logo=github)](https://github.com/byteAndBait)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=Still+learning.+Still+building.+Not+stopping." alt="Footer Typing" />
+
+</div>
