@@ -31,10 +31,10 @@ const byteAndBait = {
 | Phase | Topics | Status |
 |-------|--------|--------|
 | 🏁 **Foundations** | HTML, CSS, Git, Basic JS | ✅ Done |
-| 📐 **Intermediate HTML & CSS** | Flexbox, Grid, Forms, Responsive Design | ✅ Done |
 | ⚙️ **JavaScript** | DOM, OOP, Constructors, Prototypes | 🔥 In Progress |
-| 🖥️ **NodeJS** | Express, Databases, Auth, REST APIs | 🔒 Locked |
 | ⚛️ **React** | Components, State, Hooks, Routing | 🔒 Locked |
+| 🗄️ **Databases** | SQL, PostgreSQL, ORMs, Data Modeling | 🔒 Locked |
+| 🖥️ **NodeJS** | Express, Databases, Auth, REST APIs | 🔒 Locked |
 | 🚀 **Full Stack** | Full-stack apps, Deployment, Job-ready projects | 🔒 Locked |
 
 </div>
